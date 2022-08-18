@@ -7,11 +7,13 @@
 1. #84. Toy Story 3 (2010)
    - Covered 2022-08-03
 1. #80. Paths of Glory (1957)
-   - Planned 2022-08-17
+   - Covered 2022-08-17
 1. #70. Princess Mononoke (1997)
-   - Planned 2022-08-17
+   - Covered 2022-08-17
 1. #60. Avengers: Infinity War (2018)
+   - Planned 2022-08-31
 1. #59. Avengers: Endgame (2019)
+   - Planned 2022-08-31
 1. #50. Psycho (1960)
 1. #40. American History X (1998)
 1. #30. Hara-Kiri (1962)
