@@ -5,7 +5,7 @@
 Discussion Planned 2022-09-14
 
 - #50. Psycho (1960)
-- Army of Darkness (1992)
+- Evil Dead II (1987)
   - Suggested by Hayden
 
 ## Covered (Top 100)
