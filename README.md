@@ -2,10 +2,11 @@
 
 ## Upcoming
 
-Discussion Planned 2022-08-31
+Discussion Planned 2022-09-14
 
-- #60. Avengers: Infinity War (2018)
-- #59. Avengers: Endgame (2019)
+- #50. Psycho (1960)
+- Army of Darkness (1992)
+  - Suggested by Hayden
 
 ## Covered (Top 100)
 
@@ -17,10 +18,12 @@ Discussion Planned 2022-08-31
 - 2022-08-17
   - #80. [Paths of Glory](Paths-of-Glory.md) (1957)
   - #70. [Princess Mononoke](Princess-Mononoke.md) (1997)
+- 2022-08-31
+  - #60. [Avengers: Infinity War](Avengers.md) (2018)
+  - #59. [Avengers: Endgame](Avengers.md) (2019)
 
 ## Unwatch IMDB Top 100
 
-- #50. Psycho (1960)
 - #40. American History X (1998)
 - #30. Hara-Kiri (1962)
 - #20. Interstellar (2014)
@@ -29,8 +32,7 @@ Discussion Planned 2022-08-31
 - #4. The Lord of the Rings: The Return of the King (2003)
 - #99. Citizen Kane (1941)
 - #89. Good Will Hunting (1997)
-- #79. Witness for the Prosecution (1957)
-- #69. American Beauty (1999)
+- #79. Witness for the Prosecution (1957) #69. American Beauty (1999)
 - #49. Once Upon a Time in the West (1968)
 - #39. Gladiator (2000)
 - #29. Star Wars (1977)
@@ -113,3 +115,6 @@ Discussion Planned 2022-08-31
 - #21. City of God (2002)
 - #11. Fight Club (1999)
 - #1. The Shawshank Redemption (1994)
+
+## Previous Suggestions Came From
+- Hayden
