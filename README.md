@@ -27,8 +27,6 @@ Discussion Planned 2022-09-28
 
 ## Unwatched IMDB Top 100
 
-- #40. American History X (1998)
-- #30. Hara-Kiri (1962)
 - #20. Interstellar (2014)
 - #12. The Lord of the Rings: The Fellowship of the Ring (2001)
 - #10. The Lord of the Rings: The Two Towers (2002)
