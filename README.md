@@ -2,11 +2,10 @@
 
 ## Upcoming
 
-Discussion Planned 2022-09-14
+Discussion Planned 2022-09-28
 
-- #50. Psycho (1960)
-- Evil Dead II (1987)
-  - Suggested by Hayden
+- #40. American History X (1998)
+- #30. Hara-Kiri (1962)
 
 ## Covered (Top 100)
 
@@ -21,8 +20,12 @@ Discussion Planned 2022-09-14
 - 2022-08-31
   - #60. [Avengers: Infinity War](Avengers.md) (2018)
   - #59. [Avengers: Endgame](Avengers.md) (2019)
+- 2022-09-14
+  - #50. [Psycho](Psycho.md) (1960)
+  - [Evil Dead II](Evil-Dead-II.md) (1987)
+    - Suggested by Hayden
 
-## Unwatch IMDB Top 100
+## Unwatched IMDB Top 100
 
 - #40. American History X (1998)
 - #30. Hara-Kiri (1962)
