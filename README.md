@@ -6,7 +6,7 @@ Discussion Planned 2022-10-12
 
 - #20. Interstellar (2014)
 - Willy's Wonderland (2021)
-  - SUggested by Micah
+  - Suggested by Micah
 
 ## Covered (Top 100)
 
