@@ -2,10 +2,11 @@
 
 ## Upcoming
 
-Discussion Planned 2022-09-28
+Discussion Planned 2022-10-12
 
-- #40. American History X (1998)
-- #30. Hara-Kiri (1962)
+- #20. Interstellar (2014)
+- Willy's Wonderland (2021)
+  - SUggested by Micah
 
 ## Covered (Top 100)
 
@@ -24,10 +25,12 @@ Discussion Planned 2022-09-28
   - #50. [Psycho](Psycho.md) (1960)
   - [Evil Dead II](Evil-Dead-II.md) (1987)
     - Suggested by Hayden
+- 2022-09-28
+  - #40. [American History X](America-History-X.md) (1998)
+  - #30. [Hara-Kiri](HaraKiri.md) (1962)
 
 ## Unwatched IMDB Top 100
 
-- #20. Interstellar (2014)
 - #12. The Lord of the Rings: The Fellowship of the Ring (2001)
 - #10. The Lord of the Rings: The Two Towers (2002)
 - #4. The Lord of the Rings: The Return of the King (2003)
