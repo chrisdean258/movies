@@ -2,11 +2,10 @@
 
 ## Upcoming
 
-Discussion Planned 2022-10-12
+Discussion Planned 2022-10-26
 
-- #20. Interstellar (2014)
-- Willy's Wonderland (2021)
-  - Suggested by Micah
+- #12. The Lord of the Rings: The Fellowship of the Ring (2001)
+- #10. The Lord of the Rings: The Two Towers (2002)
 
 ## Covered (Top 100)
 
@@ -28,11 +27,13 @@ Discussion Planned 2022-10-12
 - 2022-09-28
   - #40. [American History X](America-History-X.md) (1998)
   - #30. [Hara-Kiri](HaraKiri.md) (1962)
+- 2022-10-12
+  - #20. [Interstellar](Interstellar.md) (2014)
+  - [Willy's Wonderland](Willys-Wondlerland.md) (2021)
+    - Suggested by Micah
 
 ## Unwatched IMDB Top 100
 
-- #12. The Lord of the Rings: The Fellowship of the Ring (2001)
-- #10. The Lord of the Rings: The Two Towers (2002)
 - #4. The Lord of the Rings: The Return of the King (2003)
 - #99. Citizen Kane (1941)
 - #89. Good Will Hunting (1997)
