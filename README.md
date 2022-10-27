@@ -2,10 +2,11 @@
 
 ## Upcoming
 
-Discussion Planned 2022-10-26
+Discussion Planned 2022-11-09
 
-- #12. The Lord of the Rings: The Fellowship of the Ring (2001)
-- #10. The Lord of the Rings: The Two Towers (2002)
+- #4. The Lord of the Rings: The Return of the King (2003)
+- Moonrise Kingdom (2012)
+  - Suggested by Danielle
 
 ## Covered (Top 100)
 
@@ -31,10 +32,12 @@ Discussion Planned 2022-10-26
   - #20. [Interstellar](Interstellar.md) (2014)
   - [Willy's Wonderland](Willys-Wondlerland.md) (2021)
     - Suggested by Micah
+- 2022-10-26
+  - #12. [The Lord of the Rings: The Fellowship of the Ring](Lord-of-the-Rings.md) (2001)
+  - #10. [The Lord of the Rings: The Two Towers](Lord-of-the-Rings.md) (2002)
 
 ## Unwatched IMDB Top 100
 
-- #4. The Lord of the Rings: The Return of the King (2003)
 - #99. Citizen Kane (1941)
 - #89. Good Will Hunting (1997)
 - #79. Witness for the Prosecution (1957)
