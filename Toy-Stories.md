@@ -2,11 +2,10 @@
 
 ## Movie Impressions
 
+## Chris
 - Yeah, it's a good series.
 - The improvements in animation between the movies are wild.
 - Woody kind of sucks.
-
-## Chris
 
 ## Danielle
 - Danielle thinks Tony Stark is hot.
