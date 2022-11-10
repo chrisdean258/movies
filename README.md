@@ -2,11 +2,10 @@
 
 ## Upcoming
 
-Discussion Planned 2022-11-09
+Discussion Planned 2022-11-23
 
-- #4. The Lord of the Rings: The Return of the King (2003)
-- Moonrise Kingdom (2012)
-  - Suggested by Danielle
+- #99. Citizen Kane (1941)
+- #89. Good Will Hunting (1997)
 
 ## Covered (Top 100)
 
@@ -35,11 +34,13 @@ Discussion Planned 2022-11-09
 - 2022-10-26
   - #12. [The Lord of the Rings: The Fellowship of the Ring](Lord-of-the-Rings.md) (2001)
   - #10. [The Lord of the Rings: The Two Towers](Lord-of-the-Rings.md) (2002)
+- 2022-11-09
+  - #4. [The Lord of the Rings: The Return of the King](Lord-of-the-Rings.md) (2003)
+  - [Moonrise Kingdom](Moonrise-Kingdom.md) (2012)
+    - Suggested by Danielle
 
 ## Unwatched IMDB Top 100
 
-- #99. Citizen Kane (1941)
-- #89. Good Will Hunting (1997)
 - #79. Witness for the Prosecution (1957)
 - #69. American Beauty (1999)
 - #49. Once Upon a Time in the West (1968)
