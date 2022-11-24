@@ -2,10 +2,11 @@
 
 ## Upcoming
 
-Discussion Planned 2022-11-23
+Discussion Planned 2022-12-07
+- #79. Witness for the Prosecution (1957)
+- In a lonely place (1950)
+  - Suggested by Parker
 
-- #99. Citizen Kane (1941)
-- #89. Good Will Hunting (1997)
 
 ## Covered (Top 100)
 
@@ -38,12 +39,15 @@ Discussion Planned 2022-11-23
   - #4. [The Lord of the Rings: The Return of the King](Lord-of-the-Rings.md) (2003)
   - [Moonrise Kingdom](Moonrise-Kingdom.md) (2012)
     - Suggested by Danielle
+- 2022-11-23
+  - #99. [Citizen Kane](Citizen-Kane.md) (1941)
+  - #89. [Good Will Hunting](Good-Will-Hunting.md) (1997)
 
 ## Unwatched IMDB Top 100
 
-- #79. Witness for the Prosecution (1957)
 - #69. American Beauty (1999)
 - #49. Once Upon a Time in the West (1968)
+- #32. It's a Wonderful Life (1946)
 - #39. Gladiator (2000)
 - #29. Star Wars (1977)
 - #17. Star Wars: Episode V - The Empire Strikes Back (1980)
@@ -113,7 +117,6 @@ Discussion Planned 2022-11-23
 - #62. Django Unchained (2012)
 - #52. Casablanca (1942)
 - #42. Léon: The Professional (1994)
-- #32. It's a Wonderful Life (1946)
 - #22. Spirited Away (2001)
 - #91. Reservoir Dogs (1992)
 - #81. Sunset Blvd. (1950)
@@ -128,6 +131,7 @@ Discussion Planned 2022-11-23
 
 ## Previous Suggestions Came From
 
+- Parker
 - Danielle
 - Micah
 - Hayden
