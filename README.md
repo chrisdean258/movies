@@ -2,14 +2,16 @@
 
 ## Upcoming
 
-Discussion Planned 2022-12-07
-- #79. Witness for the Prosecution (1957)
-- In a lonely place (1950)
-  - Suggested by Parker
-
+Discussion Planned 2022-12-21
+- #69. American Beauty (1999)
+- #49. Once Upon a Time in the West (1968)
 
 ## Covered (Top 100)
 
+- 2022-12-07
+  - #79. [Witness for the Prosecution](Witness-for-the-Prosecution.md) (1957)
+  - [In a Lonely Place](In-a-Lonely-Place) (1950)
+    - Suggested by Parker
 - 2022-07-20
   - #100. [M](M.md) (1931)
 - 2022-08-03
@@ -45,8 +47,6 @@ Discussion Planned 2022-12-07
 
 ## Unwatched IMDB Top 100
 
-- #69. American Beauty (1999)
-- #49. Once Upon a Time in the West (1968)
 - #32. It's a Wonderful Life (1946)
 - #39. Gladiator (2000)
 - #29. Star Wars (1977)
