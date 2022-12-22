@@ -2,16 +2,12 @@
 
 ## Upcoming
 
-Discussion Planned 2022-12-21
-- #69. American Beauty (1999)
-- #49. Once Upon a Time in the West (1968)
+- 2023-01-04
+  - #32. It's a Wonderful Life (1946)
+  - Die Hard (Christmas selection by Micah)
 
 ## Covered (Top 100)
 
-- 2022-12-07
-  - #79. [Witness for the Prosecution](Witness-for-the-Prosecution.md) (1957)
-  - [In a Lonely Place](In-a-Lonely-Place) (1950)
-    - Suggested by Parker
 - 2022-07-20
   - #100. [M](M.md) (1931)
 - 2022-08-03
@@ -44,10 +40,16 @@ Discussion Planned 2022-12-21
 - 2022-11-23
   - #99. [Citizen Kane](Citizen-Kane.md) (1941)
   - #89. [Good Will Hunting](Good-Will-Hunting.md) (1997)
+- 2022-12-07
+  - #79. [Witness for the Prosecution](Witness-for-the-Prosecution.md) (1957)
+  - [In a Lonely Place](In-a-Lonely-Place) (1950)
+    - Suggested by Parker
+- 2022-12-21
+  - #69. [American Beauty](American-Beauty.md) (1999)
+  - #49. [Once Upon a Time in the West](Once-Upon-a-Time-in-the-West.md) (1968)
 
 ## Unwatched IMDB Top 100
 
-- #32. It's a Wonderful Life (1946)
 - #39. Gladiator (2000)
 - #29. Star Wars (1977)
 - #17. Star Wars: Episode V - The Empire Strikes Back (1980)
