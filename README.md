@@ -2,9 +2,10 @@
 
 ## Upcoming
 
-- 2023-01-04
-  - #32. It's a Wonderful Life (1946)
-  - Die Hard (Christmas selection by Micah)
+- 2023-01-18
+  - #39. Gladiator (2000)
+  - The Big Lebowski (1998)
+    - Suggested by Chris
 
 ## Covered (Top 100)
 
@@ -47,10 +48,12 @@
 - 2022-12-21
   - #69. [American Beauty](American-Beauty.md) (1999)
   - #49. [Once Upon a Time in the West](Once-Upon-a-Time-in-the-West.md) (1968)
+- 2023-01-04
+  - #32. [It's a Wonderful Life](Its-A-Wonderful-Life.md) (1946)
+  - [Die Hard](Die-Hard.md) (Christmas selection by Micah)
 
 ## Unwatched IMDB Top 100
 
-- #39. Gladiator (2000)
 - #29. Star Wars (1977)
 - #17. Star Wars: Episode V - The Empire Strikes Back (1980)
 - #93. Star Wars: Episode VI - Return of the Jedi (1983)
