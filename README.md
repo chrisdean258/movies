@@ -2,10 +2,9 @@
 
 ## Upcoming
 
-- 2023-01-18
-  - #39. Gladiator (2000)
-  - The Big Lebowski (1998)
-    - Suggested by Chris
+- 2023-02-01
+  - #29. Star Wars (1977)
+  - #17. Star Wars: Episode V - The Empire Strikes Back (1980)
 
 ## Covered (Top 100)
 
@@ -51,11 +50,13 @@
 - 2023-01-04
   - #32. [It's a Wonderful Life](Its-A-Wonderful-Life.md) (1946)
   - [Die Hard](Die-Hard.md) (Christmas selection by Micah)
+- 2023-01-18
+  - #39. [Gladiator](Gladiator.md) (2000)
+  - [The Big Lebowski](The-Big-Lebowski.md) (1998)
+    - Suggested by Chris
 
 ## Unwatched IMDB Top 100
 
-- #29. Star Wars (1977)
-- #17. Star Wars: Episode V - The Empire Strikes Back (1980)
 - #93. Star Wars: Episode VI - Return of the Jedi (1983)
 - #19. Top Gun: Maverick (2022)
 - #9. Inception (2010)
@@ -136,6 +137,7 @@
 
 ## Previous Suggestions Came From
 
+- Chris
 - Parker
 - Danielle
 - Micah
