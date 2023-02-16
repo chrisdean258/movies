@@ -92,3 +92,52 @@
 - When a child this was least favorite movie
   - Purely views these movies as a 6 year old
 - Lando has a sick cape 
+
+## Episode VI
+
+### Parker
+
+- Shocking that when rescuing Han from carbonite there are no other people to do this job
+  - Gotta send the Jedi and one of the generals
+- Thermal detonator implies that it would be detonated by heat
+- Not as good as 5 not as important as 4
+- Why do they have a second Death Star
+  - Or is this just a later problem
+- Lando much worse character in this movie
+
+### Danielle
+
+- Doesn't rmember the little blue guy
+- Ewoks are cute - Dont care what anyone says
+- Fun movie
+- Not very complex
+- Little mission to get Han and forest moon of Endor were fun
+- Got a bit boring because it was the same moon for so long
+  - Not the most exciting or different moon
+- No suggestions for how it could hae been better
+- Movie did not pass the Bechdel test
+
+### Chris
+
+- Didn't hold up as well as the other ones
+- Still enjoyed the viewing but didn't feel the need to immediately rewatch
+- Still a fun watch though
+
+### Micah
+
+- By a wide margin the worst of the original three
+- "Blue guy on the piano" [Max Rebo] pretty sick
+- Did not stand up visually
+- CGI was pretty bad
+  - And the speeder scenes on the forest moon
+- Scene with the sarlac was the best action scene in the movies
+
+### Hannah
+
+- Good movie
+- Proud of 4th grade self for not giving into the Ewoks
+- Liked the ending even though it's cheesy
+  - Gotta have a good cheesy ending 
+  - Because star wars is not serious movies
+- Didn't like Luke's new duds
+

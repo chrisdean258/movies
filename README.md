@@ -2,9 +2,9 @@
 
 ## Upcoming
 
-- 2023-02-15
-  - #93. Star Wars: Episode VI - Return of the Jedi (1983)
-  - Roman Holiday (Danielle)
+- 2023-03-01
+  - #19. Top Gun: Maverick (2022)
+  - #9. Inception (2010)
 
 ## Covered (Top 100)
 
@@ -57,11 +57,13 @@
 - 2023-02-01
   - #29. [Star Wars](Star-Wars.md) (1977)
   - #17. [Star Wars: Episode V - The Empire Strikes Back](Star-Wars.md) (1980)
+- 2023-02-15
+  - #93. [Star Wars: Episode VI - Return of the Jedi](Star-Wars.md) (1983)
+  - [Roman Holiday](Roman-Holiday.md) (1953)
+    - Suggested by Danielle
 
 ## Unwatched IMDB Top 100
 
-- #19. Top Gun: Maverick (2022)
-- #9. Inception (2010)
 - #98. Singin' in the Rain (1952)
 - #88. Requiem for a Dream (2000)
 - #78. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
