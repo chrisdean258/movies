@@ -2,9 +2,10 @@
 
 ## Upcoming
 
-- 2023-03-01
-  - #19. Top Gun: Maverick (2022)
-  - #9. Inception (2010)
+- 2023-03-15
+  - #98. Singin' in the Rain (1952)
+  - There Will be Blood (2007)
+    - Suggested by Chris
 
 ## Covered (Top 100)
 
@@ -61,10 +62,12 @@
   - #93. [Star Wars: Episode VI - Return of the Jedi](Star-Wars.md) (1983)
   - [Roman Holiday](Roman-Holiday.md) (1953)
     - Suggested by Danielle
+- 2023-03-01
+  - #19. [Top Gun: Maverick](Top-Gun:Maverick.md) (2022)
+  - #9. [Inception](Inception.md) (2010)
 
 ## Unwatched IMDB Top 100
 
-- #98. Singin' in the Rain (1952)
 - #88. Requiem for a Dream (2000)
 - #78. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
 - #68. Memento (2000)
@@ -142,8 +145,8 @@
 ## Previous Suggestions Came From
 
 - Danielle
----
 - Chris
+---
 - Parker
 - Micah
 - Hayden
