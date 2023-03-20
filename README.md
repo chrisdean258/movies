@@ -2,10 +2,10 @@
 
 ## Upcoming
 
-- 2023-03-15
-  - #98. Singin' in the Rain (1952)
-  - There Will be Blood (2007)
-    - Suggested by Chris
+- 2023-03-29
+  - #88. Requiem for a Dream (2000)
+  - A Beautiful Day in the Neighborhood (2019)
+    - Suggested by Micah
 
 ## Covered (Top 100)
 
@@ -65,10 +65,13 @@
 - 2023-03-01
   - #19. [Top Gun: Maverick](Top-Gun:Maverick.md) (2022)
   - #9. [Inception](Inception.md) (2010)
+- 2023-03-15
+  - #98. [Singin' in the Rain](Singin-in-the-Rain.md) (1952)
+  - [There Will be Blood](There-Will-be-Blood.md) (2007)
+    - Suggested by Chris
 
 ## Unwatched IMDB Top 100
 
-- #88. Requiem for a Dream (2000)
 - #78. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
 - #68. Memento (2000)
 - #58. Spider-Man: Into the Spider-Verse (2018)
@@ -144,9 +147,9 @@
 
 ## Previous Suggestions Came From
 
-- Danielle
+- Micah
 - Chris
+- Danielle
 ---
 - Parker
-- Micah
 - Hayden
