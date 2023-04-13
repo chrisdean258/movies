@@ -2,9 +2,11 @@
 
 ## Upcoming
 
-- 2023-04-12
-  - #78. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
-  - #68. Memento (2000)
+- 2023-04-26
+    - #58. Spider-Man: Into the Spider-Verse (2018)
+    - In Bruges (2008)
+      - Suggested by Berat
+
 
 ## Covered (Top 100)
 
@@ -72,10 +74,12 @@
   - #88. [Requiem for a Dream](Requiem-for-a-Dream.md) (2000)
   - [A Beautiful Day in the Neighborhood](A-Beautiful-Day-in-the-Neighborhood.md) (2019)
     - Suggested by Micah
+- 2023-04-12
+  - #78. [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](Dr-Strangelove-or-How-I-Learned-to-Stop-Worrying-and-Love-the-Bomb.md) (1964)
+  - #68. [Memento](Memento.md) (2000)
 
 ## Unwatched IMDB Top 100
 
-- #58. Spider-Man: Into the Spider-Verse (2018)
 - #48. Alien (1979)
 - #72. Aliens (1986)
 - #38. The Pianist (2002)
@@ -148,6 +152,7 @@
 
 ## Previous Suggestions Came From
 
+- Berat
 - Micah
 - Chris
 - Danielle
