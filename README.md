@@ -2,10 +2,9 @@
 
 ## Upcoming
 
-- 2023-04-26
-    - #58. Spider-Man: Into the Spider-Verse (2018)
-    - In Bruges (2008)
-      - Suggested by Berat
+- 2023-05-10
+  - #48. Alien (1979)
+  - #72. Aliens (1986)
 
 
 ## Covered (Top 100)
@@ -77,11 +76,13 @@
 - 2023-04-12
   - #78. [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](Dr-Strangelove-or-How-I-Learned-to-Stop-Worrying-and-Love-the-Bomb.md) (1964)
   - #68. [Memento](Memento.md) (2000)
+- 2023-04-26
+  - #58. [Spider-Man: Into the Spider-Verse](Spider-Man:Into-the-Spider-Verse.md) (2018)
+  - [In Bruges](In-Bruges.md) (2008)
+    - Suggested by Berat
 
 ## Unwatched IMDB Top 100
 
-- #48. Alien (1979)
-- #72. Aliens (1986)
 - #38. The Pianist (2002)
 - #28. The Silence of the Lambs (1991)
 - #18. One Flew Over the Cuckoo's Nest (1975)
