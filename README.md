@@ -2,9 +2,10 @@
 
 ## Upcoming
 
-- 2023-05-10
-  - #48. Alien (1979)
-  - #72. Aliens (1986)
+- 2023-06-07
+  - #38. The Pianist (2002)
+  - My Cousin Vinny (1992)
+    - Suggested by Parker
 
 
 ## Covered (Top 100)
@@ -80,10 +81,12 @@
   - #58. [Spider-Man: Into the Spider-Verse](Spider-Man:Into-the-Spider-Verse.md) (2018)
   - [In Bruges](In-Bruges.md) (2008)
     - Suggested by Berat
+- 2023-05-24
+  - #48. [Alien](Alien.md) (1979)
+  - #72. [Aliens](Alien.md) (1986)
 
 ## Unwatched IMDB Top 100
 
-- #38. The Pianist (2002)
 - #28. The Silence of the Lambs (1991)
 - #18. One Flew Over the Cuckoo's Nest (1975)
 - #8. Pulp Fiction (1994)
@@ -153,10 +156,10 @@
 
 ## Previous Suggestions Came From
 
+- Parker
 - Berat
 - Micah
 - Chris
 - Danielle
 ---
-- Parker
 - Hayden
