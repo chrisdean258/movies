@@ -2,11 +2,10 @@
 
 ## Upcoming
 
-- 2023-06-07
-  - #38. The Pianist (2002)
-  - My Cousin Vinny (1992)
-    - Suggested by Parker
 
+- 2023-06-07
+  - #28. The Silence of the Lambs (1991)
+  - #18. One Flew Over the Cuckoo's Nest (1975)
 
 ## Covered (Top 100)
 
@@ -26,7 +25,7 @@
   - [Evil Dead II](Evil-Dead-II.md) (1987)
     - Suggested by Hayden
 - 2022-09-28
-  - #40. [American History X](America-History-X.md) (1998)
+  - #40. [American History X](American-History-X.md) (1998)
   - #30. [Hara-Kiri](HaraKiri.md) (1962)
 - 2022-10-12
   - #20. [Interstellar](Interstellar.md) (2014)
@@ -84,11 +83,13 @@
 - 2023-05-24
   - #48. [Alien](Alien.md) (1979)
   - #72. [Aliens](Alien.md) (1986)
+- 2023-06-07
+  - #38. [The Pianist](The-Pianist.md) (2002)
+  - [My Cousin Vinny](My-Cousin-Vinny.md) (1992)
+    - Suggested by Parker
 
 ## Unwatched IMDB Top 100
 
-- #28. The Silence of the Lambs (1991)
-- #18. One Flew Over the Cuckoo's Nest (1975)
 - #8. Pulp Fiction (1994)
 - #97. Vertigo (1958)
 - #87. Amélie (2001)
