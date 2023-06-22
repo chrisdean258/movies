@@ -35,6 +35,7 @@
   - In the book the Nurse Ratched is characterized as evil
   - Vs. in the movie she was more heartless and stern
     - Only 'evil' part is wanting McMurphy lobotomized
+- This movie does not pass the Bechdel Test
 
 ## Micah
 
