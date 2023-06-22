@@ -2,10 +2,10 @@
 
 ## Upcoming
 
-
-- 2023-06-07
-  - #28. The Silence of the Lambs (1991)
-  - #18. One Flew Over the Cuckoo's Nest (1975)
+- 2023-07-19
+  - #8. Pulp Fiction (1994)
+  - Legally Blonde (2001)
+    - Suggested by Danielle
 
 ## Covered (Top 100)
 
@@ -87,10 +87,12 @@
   - #38. [The Pianist](The-Pianist.md) (2002)
   - [My Cousin Vinny](My-Cousin-Vinny.md) (1992)
     - Suggested by Parker
+- 2023-06-21
+  - #28. [The Silence of the Lambs](The-Silence-of-the-Lambs.md) (1991)
+  - #18. [One Flew Over the Cuckoo's Nest](One-Flew-Over-the-Cuckoos-Nest.md) (1975)
 
 ## Unwatched IMDB Top 100
 
-- #8. Pulp Fiction (1994)
 - #97. Vertigo (1958)
 - #87. Amélie (2001)
 - #77. High and Low (1963)
@@ -157,10 +159,10 @@
 
 ## Previous Suggestions Came From
 
+- Danielle
+---
 - Parker
 - Berat
 - Micah
 - Chris
-- Danielle
----
 - Hayden
