@@ -2,10 +2,9 @@
 
 ## Upcoming
 
-- 2023-07-19
-  - #8. Pulp Fiction (1994)
-  - Legally Blonde (2001)
-    - Suggested by Danielle
+- 2023-08-02
+  - #97. Vertigo (1958)
+  - #87. Amélie (2001)
 
 ## Covered (Top 100)
 
@@ -63,7 +62,7 @@
   - [Roman Holiday](Roman-Holiday.md) (1953)
     - Suggested by Danielle
 - 2023-03-01
-  - #19. [Top Gun: Maverick](Top-Gun:Maverick.md) (2022)
+  - #19. [Top Gun: Maverick](Top-Gun-Maverick.md) (2022)
   - #9. [Inception](Inception.md) (2010)
 - 2023-03-15
   - #98. [Singin' in the Rain](Singin-in-the-Rain.md) (1952)
@@ -77,7 +76,7 @@
   - #78. [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](Dr-Strangelove-or-How-I-Learned-to-Stop-Worrying-and-Love-the-Bomb.md) (1964)
   - #68. [Memento](Memento.md) (2000)
 - 2023-04-26
-  - #58. [Spider-Man: Into the Spider-Verse](Spider-Man:Into-the-Spider-Verse.md) (2018)
+  - #58. [Spider-Man: Into the Spider-Verse](Spider-Man-Into-the-Spider-Verse.md) (2018)
   - [In Bruges](In-Bruges.md) (2008)
     - Suggested by Berat
 - 2023-05-24
@@ -90,11 +89,13 @@
 - 2023-06-21
   - #28. [The Silence of the Lambs](The-Silence-of-the-Lambs.md) (1991)
   - #18. [One Flew Over the Cuckoo's Nest](One-Flew-Over-the-Cuckoos-Nest.md) (1975)
+- 2023-07-19
+  - #8. [Pulp Fiction](Pulp-Fiction.md) (1994)
+  - [Legally Blonde](Legally-Blonde.md) (2001)
+    - Suggested by Danielle
 
 ## Unwatched IMDB Top 100
 
-- #97. Vertigo (1958)
-- #87. Amélie (2001)
 - #77. High and Low (1963)
 - #67. Oldboy (2003)
 - #57. Your Name. (2016)
