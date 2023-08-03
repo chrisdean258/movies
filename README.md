@@ -2,9 +2,10 @@
 
 ## Upcoming
 
-- 2023-08-02
-  - #97. Vertigo (1958)
-  - #87. Amélie (2001)
+- 2023-08-16
+  - #77. High and Low (1963)
+  - The Lego Batman Movie (2017)
+    - Suggested by Micah
 
 ## Covered (Top 100)
 
@@ -36,8 +37,7 @@
 - 2022-11-09
   - #4. [The Lord of the Rings: The Return of the King](Lord-of-the-Rings.md) (2003)
   - [Moonrise Kingdom](Moonrise-Kingdom.md) (2012)
-    - Suggested by Danielle
-- 2022-11-23
+    - Suggested by Danielle 2022-11-23
   - #99. [Citizen Kane](Citizen-Kane.md) (1941)
   - #89. [Good Will Hunting](Good-Will-Hunting.md) (1997)
 - 2022-12-07
@@ -93,10 +93,12 @@
   - #8. [Pulp Fiction](Pulp-Fiction.md) (1994)
   - [Legally Blonde](Legally-Blonde.md) (2001)
     - Suggested by Danielle
+- 2023-08-02
+  - #97. [Vertigo](Vertigo.md) (1958)
+  - #87. [Amélie](Amelie.md) (2001)
 
 ## Unwatched IMDB Top 100
 
-- #77. High and Low (1963)
 - #67. Oldboy (2003)
 - #57. Your Name. (2016)
 - #47. Apocalypse Now (1979)
@@ -161,9 +163,9 @@
 ## Previous Suggestions Came From
 
 - Danielle
+- Micah
 ---
 - Parker
 - Berat
-- Micah
 - Chris
 - Hayden
