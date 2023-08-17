@@ -2,10 +2,9 @@
 
 ## Upcoming
 
-- 2023-08-16
-  - #77. High and Low (1963)
-  - The Lego Batman Movie (2017)
-    - Suggested by Micah
+- 2023-08-30
+  - #67. Oldboy (2003)
+  - #57. Your Name. (2016)
 
 ## Covered (Top 100)
 
@@ -96,11 +95,13 @@
 - 2023-08-02
   - #97. [Vertigo](Vertigo.md) (1958)
   - #87. [Amélie](Amelie.md) (2001)
+- 2023-08-16
+  - #77. [High and Low](High-and-Low.md) (1963)
+  - [The Lego Batman Movie](The-Lego-Batman-Movie.md) (2017)
+    - Suggested by Micah
 
 ## Unwatched IMDB Top 100
 
-- #67. Oldboy (2003)
-- #57. Your Name. (2016)
 - #47. Apocalypse Now (1979)
 - #37. The Departed (2006)
 - #27. Terminator 2: Judgment Day (1991)
