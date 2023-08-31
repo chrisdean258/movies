@@ -2,9 +2,10 @@
 
 ## Upcoming
 
-- 2023-08-30
-  - #67. Oldboy (2003)
-  - #57. Your Name. (2016)
+- 2023-09-13
+  - #47. Apocalypse Now (1979)
+  - Oh, Brother Where Art Thou? (2000)
+    - Suggested by Chris
 
 ## Covered (Top 100)
 
@@ -99,10 +100,12 @@
   - #77. [High and Low](High-and-Low.md) (1963)
   - [The Lego Batman Movie](The-Lego-Batman-Movie.md) (2017)
     - Suggested by Micah
+- 2023-08-30
+  - #67. [Oldboy](Oldboy.md) (2003)
+  - #57. [Your Name.](Your-Name.md) (2016)
 
 ## Unwatched IMDB Top 100
 
-- #47. Apocalypse Now (1979)
 - #37. The Departed (2006)
 - #27. Terminator 2: Judgment Day (1991)
 - #7. 12 Angry Men (1957)
@@ -165,8 +168,8 @@
 
 - Danielle
 - Micah
+- Chris
 ---
 - Parker
 - Berat
-- Chris
 - Hayden
