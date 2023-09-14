@@ -2,9 +2,9 @@
 
 ## Upcoming
 
-- 2023-09-13
-  - #47. Apocalypse Now (1979)
-  - Oh, Brother Where Art Thou? (2000)
+- 2023-09-27
+  - #37. The Departed (2006)
+  - Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
     - Suggested by Chris
 
 ## Covered (Top 100)
@@ -103,10 +103,13 @@
 - 2023-08-30
   - #67. [Oldboy](Oldboy.md) (2003)
   - #57. [Your Name.](Your-Name.md) (2016)
+- 2023-09-13
+  - #47. [Apocalypse Now](Apocalypse-Now.md) (1979)
+  - [Oh, Brother Where Art Thou?](Oh-Brother-Where-Art-Thou.md) (2000)
+    - Suggested by Chris
 
 ## Unwatched IMDB Top 100
 
-- #37. The Departed (2006)
 - #27. Terminator 2: Judgment Day (1991)
 - #7. 12 Angry Men (1957)
 - #96. North by Northwest (1959)
@@ -166,10 +169,10 @@
 
 ## Previous Suggestions Came From
 
-- Danielle
-- Micah
 - Chris
 ---
+- Danielle
+- Micah
 - Parker
 - Berat
 - Hayden
