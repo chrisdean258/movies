@@ -2,10 +2,10 @@
 
 ## Upcoming
 
-- 2023-09-27
-  - #37. The Departed (2006)
-  - Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
-    - Suggested by Chris
+- 2023-10-11
+  - The Terminator (1984)
+  - #27. Terminator 2: Judgment Day (1991)
+
 
 ## Covered (Top 100)
 
@@ -107,10 +107,13 @@
   - #47. [Apocalypse Now](Apocalypse-Now.md) (1979)
   - [Oh, Brother Where Art Thou?](Oh-Brother-Where-Art-Thou.md) (2000)
     - Suggested by Chris
+- 2023-09-27
+  - #37. [The Departed](The-Departed.md) (2006)
+  - [Teenage Mutant Ninja Turtles: Mutant Mayhem](Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem.md) (2023)
+    - Suggested by Chris
 
 ## Unwatched IMDB Top 100
 
-- #27. Terminator 2: Judgment Day (1991)
 - #7. 12 Angry Men (1957)
 - #96. North by Northwest (1959)
 - #86. Eternal Sunshine of the Spotless Mind (2004)
