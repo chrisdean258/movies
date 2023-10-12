@@ -2,10 +2,9 @@
 
 ## Upcoming
 
-- 2023-10-11
-  - The Terminator (1984)
-  - #27. Terminator 2: Judgment Day (1991)
-
+- 2023-10-28
+  - #76. The Shining (1980)
+  - #61. Coco (I) (2017)
 
 ## Covered (Top 100)
 
@@ -111,13 +110,15 @@
   - #37. [The Departed](The-Departed.md) (2006)
   - [Teenage Mutant Ninja Turtles: Mutant Mayhem](Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem.md) (2023)
     - Suggested by Chris
+- 2023-10-11
+  - [The Terminator](Terminators.md) (1984)
+  - #27. [Terminator 2: Judgment Day](Terminators.md) (1991)
 
 ## Unwatched IMDB Top 100
 
 - #7. 12 Angry Men (1957)
 - #96. North by Northwest (1959)
 - #86. Eternal Sunshine of the Spotless Mind (2004)
-- #76. The Shining (1980)
 - #66. The Lives of Others (2006)
 - #56. Joker (I) (2019)
 - #46. Back to the Future (1985)
@@ -162,7 +163,6 @@
 - #91. Reservoir Dogs (1992)
 - #81. Sunset Blvd. (1950)
 - #71. Braveheart (1995)
-- #61. Coco (I) (2017)
 - #51. Rear Window (1954)
 - #41. The Usual Suspects (1995)
 - #31. Seven Samurai (1954)
