@@ -2,9 +2,15 @@
 
 ## Upcoming
 
-- 2023-10-28
-  - #76. The Shining (1980)
-  - #61. Coco (I) (2017)
+- 2023-12-06
+  - #7. 12 Angry Men (1957)
+  - The Prince of Egypt (1998)
+    - Suggested by Bennett
+  - #43. The Lion King (1994)
+  - #65. WALL·E (2008)
+  - #94. 2001: A Space Odyssey (1968)
+  - The Truman Show (1998)
+    - Suggested by Danielle
 
 ## Covered (Top 100)
 
@@ -113,10 +119,13 @@
 - 2023-10-11
   - [The Terminator](Terminators.md) (1984)
   - #27. [Terminator 2: Judgment Day](Terminators.md) (1991)
+- 2023-10-25
+  - No notes from today. Chris is too tired
+  - #76. The Shining (1980)
+  - #61. Coco (I) (2017)
 
 ## Unwatched IMDB Top 100
 
-- #7. 12 Angry Men (1957)
 - #96. North by Northwest (1959)
 - #86. Eternal Sunshine of the Spotless Mind (2004)
 - #66. The Lives of Others (2006)
@@ -130,14 +139,12 @@
 - #95. Lawrence of Arabia (1962)
 - #85. Inglourious Basterds (2009)
 - #75. The Boat (1981)
-- #65. WALL·E (2008)
 - #55. Capernaum (2018)
 - #45. Grave of the Fireflies (1988)
 - #35. The Intouchables (2011)
 - #25. Life Is Beautiful (1997)
 - #15. The Matrix (1999)
 - #5. Schindler's List (1993)
-- #94. 2001: A Space Odyssey (1968)
 - #74. Indiana Jones and the Raiders of the Lost Ark (1981)
 - #64. 3 Idiots (2009)
 - #54. City Lights (1931)
@@ -150,7 +157,6 @@
 - #3. The Dark Knight (2008)
 - #63. The Dark Knight Rises (2012)
 - #53. Modern Times (1936)
-- #43. The Lion King (1994)
 - #33. Parasite (2019)
 - #23. Saving Private Ryan (1998)
 - #13. Forrest Gump (1994)
