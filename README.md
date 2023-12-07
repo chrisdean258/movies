@@ -2,15 +2,9 @@
 
 ## Upcoming
 
-- 2023-12-06
-  - #7. 12 Angry Men (1957)
-  - The Prince of Egypt (1998)
-    - Suggested by Bennett
-  - #43. The Lion King (1994)
-  - #65. WALL·E (2008)
-  - #94. 2001: A Space Odyssey (1968)
-  - The Truman Show (1998)
-    - Suggested by Danielle
+- 2023-12-20
+  - #96. North by Northwest (1959)
+  - #86. Eternal Sunshine of the Spotless Mind (2004)
 
 ## Covered (Top 100)
 
@@ -123,11 +117,19 @@
   - No notes from today. Chris is too tired
   - #76. The Shining (1980)
   - #61. Coco (I) (2017)
+- 2023-12-06
+  - No notes for today
+  - #7. 12 Angry Men (1957)
+  - The Prince of Egypt (1998)
+    - Suggested by Bennett
+  - #43. The Lion King (1994)
+  - #65. WALL·E (2008)
+  - #94. 2001: A Space Odyssey (1968)
+  - The Truman Show (1998)
+    - Suggested by Danielle
 
 ## Unwatched IMDB Top 100
 
-- #96. North by Northwest (1959)
-- #86. Eternal Sunshine of the Spotless Mind (2004)
 - #66. The Lives of Others (2006)
 - #56. Joker (I) (2019)
 - #46. Back to the Future (1985)
