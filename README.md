@@ -2,10 +2,9 @@
 
 ## Upcoming
 
-- 2024-01-03
-  - #66. The Lives of Others (2006)
-  - Ever After (1998)
-    - Suggested by Hannah
+- 2024-01-17
+  - #56. Joker (I) (2019)
+  - #46. Back to the Future (1985)
 
 ## Covered (Top 100)
 
@@ -131,11 +130,13 @@
 - 2023-12-20
   - #96. [North by Northwest](North-by-Northwest.md) (1959)
   - #86. [Eternal Sunshine of the Spotless Mind](Eternal-Sunshine-of-the-Spotless-Mind.md) (2004)
+- 2024-01-03
+  - #66. [The Lives of Others](The-Lives-of-Others.md) (2006)
+  - [Ever After](Ever-After.md) (1998)
+    - Suggested by Hannah
 
 ## Unwatched IMDB Top 100
 
-- #56. Joker (I) (2019)
-- #46. Back to the Future (1985)
 - #36. The Prestige (2006)
 - #26. Se7en (1995)
 - #16. Goodfellas (1990)
