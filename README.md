@@ -2,9 +2,10 @@
 
 ## Upcoming
 
-- 2023-12-20
-  - #96. North by Northwest (1959)
-  - #86. Eternal Sunshine of the Spotless Mind (2004)
+- 2024-01-03
+  - #66. The Lives of Others (2006)
+  - Ever After (1998)
+    - Suggested by Hannah
 
 ## Covered (Top 100)
 
@@ -127,10 +128,12 @@
   - #94. 2001: A Space Odyssey (1968)
   - The Truman Show (1998)
     - Suggested by Danielle
+- 2023-12-20
+  - #96. [North by Northwest](North-by-Northwest.md) (1959)
+  - #86. [Eternal Sunshine of the Spotless Mind](Eternal-Sunshine-of-the-Spotless-Mind.md) (2004)
 
 ## Unwatched IMDB Top 100
 
-- #66. The Lives of Others (2006)
 - #56. Joker (I) (2019)
 - #46. Back to the Future (1985)
 - #36. The Prestige (2006)
@@ -181,8 +184,10 @@
 ## Previous Suggestions Came From
 
 - Chris
----
 - Danielle
+- Bennett
+- Hannah
+---
 - Micah
 - Parker
 - Berat
