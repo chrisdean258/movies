@@ -2,9 +2,10 @@
 
 ## Upcoming
 
-- 2024-01-17
-  - #56. Joker (I) (2019)
-  - #46. Back to the Future (1985)
+- 2024-01-31
+  - #36. The Prestige (2006)
+  - Del Toro's Pinocchio (2022)
+    - Suggested by Micah
 
 ## Covered (Top 100)
 
@@ -134,10 +135,12 @@
   - #66. [The Lives of Others](The-Lives-of-Others.md) (2006)
   - [Ever After](Ever-After.md) (1998)
     - Suggested by Hannah
+- 2024-01-17
+  - #56. [Joker (I)](Joker.md) (2019)
+  - #46. [Back to the Future](Back-to-the-Future.md) (1985)
 
 ## Unwatched IMDB Top 100
 
-- #36. The Prestige (2006)
 - #26. Se7en (1995)
 - #16. Goodfellas (1990)
 - #2. The Godfather (1972)
