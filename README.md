@@ -2,10 +2,10 @@
 
 ## Upcoming
 
-- 2024-01-31
-  - #36. The Prestige (2006)
-  - Del Toro's Pinocchio (2022)
-    - Suggested by Micah
+- 2024-02-14
+  - #26. Se7en (1995)
+  - Paprika (2006)
+    - Suggested by Berat
 
 ## Covered (Top 100)
 
@@ -139,10 +139,14 @@
 - 2024-01-17
   - #56. [Joker (I)](Joker.md) (2019)
   - #46. [Back to the Future](Back-to-the-Future.md) (1985)
+- 2024-01-31
+  - #36. [The Prestige](The-Prestige.md) (2006)
+  - [Del Toro's Pinocchio](Del-Toros-Pinocchio.md) (2022)
+    - Suggested by Micah
+
 
 ## Unwatched IMDB Top 100
 
-- #26. Se7en (1995)
 - #16. Goodfellas (1990)
 - #2. The Godfather (1972)
 - #6. The Godfather: Part II (1974)
@@ -193,7 +197,7 @@
 - Bennett
 - Hannah
 - Micah
+- Berat
 ---
 - Parker
-- Berat
 - Hayden
