@@ -37,7 +37,8 @@
 - 2022-11-09
   - #4. [The Lord of the Rings: The Return of the King](Lord-of-the-Rings.md) (2003)
   - [Moonrise Kingdom](Moonrise-Kingdom.md) (2012)
-    - Suggested by Danielle 2022-11-23
+    - Suggested by Danielle
+- 2022-11-23
   - #99. [Citizen Kane](Citizen-Kane.md) (1941)
   - #89. [Good Will Hunting](Good-Will-Hunting.md) (1997)
 - 2022-12-07
@@ -191,8 +192,8 @@
 - Danielle
 - Bennett
 - Hannah
----
 - Micah
+---
 - Parker
 - Berat
 - Hayden
